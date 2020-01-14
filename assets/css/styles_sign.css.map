@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,eAAe;EACvB,UAAU,EAAE,GAAG;CAClB;;AACD,AAAA,CAAC,CAAA;EACG,KAAK,EAAC,GAAG;CACZ",
+    "sources": [
+        "../scss/styles_sign.scss"
+    ],
+    "names": [],
+    "file": "styles_sign.css"
+}
