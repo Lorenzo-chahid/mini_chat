@@ -1,1 +1,1 @@
-<?php require_once "./membres/sign_up.php" ?>
+<?php require_once "./../membres/sign_up.php" ?>
